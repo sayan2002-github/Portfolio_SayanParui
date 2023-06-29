@@ -6,4 +6,4 @@
 
 ## Deployment
 
-To view my work please [Click Here](https://sayan2002-github.github.io/Portfolio_SayanParui/)
+To view my work please [Click Here](https://sayan-parui-portfolios.netlify.app/)
